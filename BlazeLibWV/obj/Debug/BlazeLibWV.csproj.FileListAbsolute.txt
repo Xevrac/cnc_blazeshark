@@ -1,0 +1,6 @@
+C:\Users\xevrac\Downloads\Blz\BlazeLibWV\bin\Debug\BlazeLibWV.dll
+C:\Users\xevrac\Downloads\Blz\BlazeLibWV\bin\Debug\BlazeLibWV.pdb
+C:\Users\xevrac\Downloads\Blz\BlazeLibWV\obj\Debug\BlazeLibWV.csproj.AssemblyReference.cache
+C:\Users\xevrac\Downloads\Blz\BlazeLibWV\obj\Debug\BlazeLibWV.csproj.CoreCompileInputs.cache
+C:\Users\xevrac\Downloads\Blz\BlazeLibWV\obj\Debug\BlazeLibWV.dll
+C:\Users\xevrac\Downloads\Blz\BlazeLibWV\obj\Debug\BlazeLibWV.pdb

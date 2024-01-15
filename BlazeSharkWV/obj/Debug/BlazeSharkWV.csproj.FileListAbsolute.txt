@@ -1,0 +1,39 @@
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.AssemblyReference.cache
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\bin\Debug\BlazeSharkWV.exe.config
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\bin\Debug\BlazeSharkWV.exe
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\bin\Debug\BlazeSharkWV.pdb
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\bin\Debug\BlazeLibWV.dll
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\bin\Debug\BlazeLibWV.pdb
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.Form1.resources
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.Properties.Resources.resources
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.GenerateResource.cache
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.CoreCompileInputs.cache
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.CopyComplete
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.exe
+C:\Users\xevrac\Downloads\Blz\BlazeSharkWV\obj\Debug\BlazeSharkWV.pdb
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.AssemblyReference.cache
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.Form1.resources
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.Properties.Resources.resources
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.GenerateResource.cache
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.CoreCompileInputs.cache
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.exe
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.pdb
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\bin\Debug\BlazeSharkWV.exe.config
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\bin\Debug\BlazeSharkWV.exe
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\bin\Debug\BlazeSharkWV.pdb
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\bin\Debug\BlazeLibWV.dll
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\bin\Debug\BlazeLibWV.pdb
+D:\_DATA\Projects\RE\Command and Conquer\Tools\Source\BlazeShark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.CopyComplete
+C:\Development\cnc_blazeshark\BlazeSharkWV\bin\Debug\BlazeSharkWV.exe.config
+C:\Development\cnc_blazeshark\BlazeSharkWV\bin\Debug\BlazeSharkWV.exe
+C:\Development\cnc_blazeshark\BlazeSharkWV\bin\Debug\BlazeSharkWV.pdb
+C:\Development\cnc_blazeshark\BlazeSharkWV\bin\Debug\BlazeLibWV.dll
+C:\Development\cnc_blazeshark\BlazeSharkWV\bin\Debug\BlazeLibWV.pdb
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.AssemblyReference.cache
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.Form1.resources
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.Properties.Resources.resources
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.GenerateResource.cache
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.CoreCompileInputs.cache
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.csproj.CopyComplete
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.exe
+C:\Development\cnc_blazeshark\BlazeSharkWV\obj\Debug\BlazeSharkWV.pdb
