@@ -10,3 +10,7 @@ With these tools we can research the blaze side of the game and the server.
 # Build
 Open solution with VS2022 and compile build. Run `BlazeSharkWV.exe`.
 > .NET Framework 4.5.2 is required
+
+# Media
+
+<img src="https://i.ibb.co/5k0DY3b/Blaze-Shark-WVExample.png">
