@@ -599,7 +599,7 @@ namespace BlazeSharkWV
 
         private void ShowAboutDialog()
         {
-            string aboutText = "Blaze Shark Extended by Warranty Voider.\r\nModified by Xevrac, all rights reserved.\r\n\r\nVersion 1.1-8e2118d";
+            string aboutText = "Blaze Shark Extended by Warranty Voider.\r\nModified by Xevrac, all rights reserved.\r\n\r\nVersion 1.1-8ecb14b";
 
             MessageBox.Show(aboutText, "About Blaze Shark Extended", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
