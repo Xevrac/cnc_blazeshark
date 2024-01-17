@@ -13,4 +13,4 @@ Open solution with VS2022 and compile build. Run `BlazeSharkWV.exe`.
 
 # Media
 
-<img src="https://i.ibb.co/55c5B1M/Screenshot-2024-01-17-132344.png">
+<img src="https://i.ibb.co/5k0DY3b/Blaze-Shark-WVExample.png">
