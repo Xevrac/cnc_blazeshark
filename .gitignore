@@ -1,3 +1,5 @@
 *.vsidx
 /BlazeSharkWV/bin/
 /BlazeLibWV/bin/
+/BlazeSharkWV/obj/
+/BlazeLibWV/obj/
