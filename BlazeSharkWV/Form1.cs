@@ -509,7 +509,7 @@ namespace BlazeSharkWV
                     }
                 }
                 File.WriteAllBytes(d.FileName, m.ToArray());
-                MessageBox.Show("Done.");
+                MessageBox.Show("Packets saved to file successfully.");
             }
         }
 
@@ -573,7 +573,7 @@ namespace BlazeSharkWV
                 foreach (Blaze.Packet p in packets)
                     sb.Append(BlazePrettyPrinter.PrintPacket(p));
                 File.WriteAllText(d.FileName, sb.ToString());
-                MessageBox.Show("Done.");
+                MessageBox.Show("Log saved as file successfully.");
             }
         }
 
