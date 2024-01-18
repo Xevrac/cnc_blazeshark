@@ -882,24 +882,19 @@ namespace BlazeLibWV
         public static List<Tdf> ReadPacketContent(Packet p)
         {
             List<Tdf> res = new List<Tdf>();
-            using (MemoryStream m = new MemoryStream(p.Content))
+            MemoryStream m = new MemoryStream(p.Content);
+            m.Seek(0, 0);
+            try
             {
-                try
-                {
-                    while (m.Position < m.Length - 4)
-                    {
-                        res.Add(ReadTdf(m));
-                    }
-                }
-                catch (Exception ex)
-                {
-                    // Log the exception or handle it as needed
-                    Console.WriteLine($"Error reading TDF: {ex.Message}\nPosition: 0x{m.Position:X}");
-                }
+                while (m.Position < m.Length - 4)
+                    res.Add(ReadTdf(m));
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message + "\n@:" + m.Position.ToString("X"));
             }
             return res;
         }
-
         public static DoubleVal ReadDoubleVal(Stream s)
         {
             DoubleVal res = new DoubleVal();
