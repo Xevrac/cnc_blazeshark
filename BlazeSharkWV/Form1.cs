@@ -583,12 +583,52 @@ namespace BlazeSharkWV
             d.Filter = "*.txt|*.txt";
             if (d.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                string[] lines = File.ReadAllLines(d.FileName);
-                StringBuilder sb = new StringBuilder();
-                foreach (string line in lines)
-                    sb.AppendLine(Blaze.TagToLabel(Convert.ToUInt32(line, 16)));
-                MessageBox.Show(sb.ToString());
-                Clipboard.SetText(sb.ToString());
+                try
+                {
+                    string[] lines = File.ReadAllLines(d.FileName);
+                    StringBuilder sb = new StringBuilder();
+
+                    foreach (string line in lines)
+                    {
+                        if (!string.IsNullOrEmpty(line))
+                        {
+                            uint tagValue;
+                            if (uint.TryParse(line, System.Globalization.NumberStyles.HexNumber, null, out tagValue))
+                            {
+                                string label = Blaze.TagToLabel(tagValue);
+                                if (!string.IsNullOrEmpty(label))
+                                {
+                                    sb.AppendLine(label);
+                                }
+                                else
+                                {
+                                    // Handle when null or empty
+                                }
+                            }
+                            else
+                            {
+                                // Handle when invalid hexadecimal number
+                            }
+                        }
+                    }
+
+                    string resultText = sb.ToString().Trim();
+                    if (!string.IsNullOrEmpty(resultText))
+                    {
+                        MessageBox.Show(resultText);
+                        Clipboard.SetText(resultText);
+                    }
+                    else
+                    {
+                        // Notify nothing to copy
+                        MessageBox.Show("No valid tags found.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Handle exception - Display a message box
+                    MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
